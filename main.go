@@ -1,9 +1,9 @@
 package main
 
 import (
-	"game-of-life/logic02"
+	"game-of-life/logic01"
 )
 
 func main() {
-	logic02.Soal03()
+	logic01.Soal4()
 }
